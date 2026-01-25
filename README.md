@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senitha Gunathilaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Undergraduate Computer Science Student at Trincomalee Campus of Eastern University, Sri Lanka | Aspiring Data Scientist</h3>
+<h3 align="center">Undergraduate Computer Science Student at  Eastern University, Sri Lanka | Aspiring Data Scientist</h3>
 
 <p align="center">
   <a href="https://github.com/theHoodguy4587">
