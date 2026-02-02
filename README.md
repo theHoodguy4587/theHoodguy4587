@@ -36,10 +36,12 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats (Shields.io)</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theHoodguy4587&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theHoodguy4587&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/theHoodguy4587?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/theHoodguy4587?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/issues/theHoodguy4587?style=social" alt="Issues"/>
+  <img src="https://img.shields.io/github/repo-size/theHoodguy4587?style=flat-square" alt="Repo Size"/>
 </p>
 
 
