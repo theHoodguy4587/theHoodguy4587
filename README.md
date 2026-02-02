@@ -36,13 +36,14 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats (Shields.io)</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/theHoodguy4587?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/theHoodguy4587?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/issues/theHoodguy4587?style=social" alt="Issues"/>
-  <img src="https://img.shields.io/github/repo-size/theHoodguy4587?style=flat-square" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/stars/theHoodguy4587?label=Stars&style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/issues/theHoodguy4587?label=Issues&style=social" alt="Issues"/>
+  <img src="https://img.shields.io/github/repo-size/theHoodguy4587?label=Repo+Size&style=flat-square" alt="Repo Size"/>
 </p>
+
 
 
 
