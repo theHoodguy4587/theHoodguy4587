@@ -38,10 +38,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theHoodguy4587&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theHoodguy4587&show_icons=true&theme=dark&count_private=true&hide=prs" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theHoodguy4587&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theHoodguy4587&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
+
 
 ---
 
