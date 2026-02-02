@@ -50,10 +50,9 @@
 
 <h3 align="center">🔗 Let's Connect</h3>
 <p align="center">
-  <a href="mailto:senithadsci@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/senithagunathilaka"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/senithagunathilaka"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+  <a href="senitha02@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/theHoodguy4587"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/senitha-gunathilaka-404236285/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ---
