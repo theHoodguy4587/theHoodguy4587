@@ -33,23 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theHoodguy4587&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Voice Phishing Detection System
-- Audio → Text (Whisper) → Spam Classification (ML)  
-- Tech: Python, NLP, Machine Learning  
-
-### 🔹 CO₂ Emission Prediction
-- Regression + Random Forest Model  
-- Full ML pipeline with preprocessing & tuning  
-
-### 🔹 Obesity Level Clustering
-- Clustering & EDA on lifestyle dataset  
-- Extracted insights on health patterns  
-
----
 
 ## 🏆 Achievements & Goals
 - 📚 Completed Data Science course (Jose Portilla)
